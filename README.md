@@ -1,5 +1,6 @@
 # Hello, fellow voyager! 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B9CF6&width=800&lines=Moukthika+Nellutla;Computer+Science+%2B+Bioengineering+%40+UIUC&loop=false)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B9CF6&width=800&lines=Moukthika+Nellutla)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B9CF6&width=800&lines=Computer+Science+and+Bioengineering+@+UIUC)](https://git.io/typing-svg)
 
 
 I'm interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
