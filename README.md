@@ -1,4 +1,4 @@
-# Hey, fellow voyager! 
+# Hello, fellow voyager! 
 
 I'm Moukthika Nellutla, a Computer Science + Bioengineering student at the **University of Illinois Urbana-Champaign** interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
 
@@ -36,13 +36,12 @@ React · SQLite · SQL
 
 Git · GitHub · Linux
 
-## 🚀 Featured Projects
+## Featured Projects
+### 💳 [MediPay — HackIllinois 2026](https://github.com/Mnellutla1120/hackillinois2026medicaldebt)
 
-### 🧠 [BrainCancerCNN](https://github.com/Mnellutla1120/BrainCancerCNN)
+Built a medical debt repayment application to help users explore options for managing healthcare expenses.
 
-Exploring convolutional neural networks for brain tumor classification, with a focus on distinguishing benign and malignant tumors.
-
-**Tech:** Python · Jupyter Notebook
+**Tech:** Python · FastAPI · React · SQLAlchemy · SQLite
 
 ### 🩺 [demynsify](https://github.com/Mnellutla1120/demynsify)
 
@@ -50,23 +49,24 @@ Exploring an AI-powered approach to medical misinformation detection, inspired b
 
 **Tech:** Python
 
-### 💳 [MediPay — HackIllinois 2026](https://github.com/Mnellutla1120/hackillinois2026medicaldebt)
-
-Built a medical debt repayment application to help users explore options for managing healthcare expenses.
-
-**Tech:** Python · FastAPI · React · SQLAlchemy · SQLite
-
 ### 🧪 [FutureNomics](https://github.com/Mnellutla1120/FutureNomics)
 
 Contributing to a project exploring future-oriented data and applications.
 
 **Tech:** Python
+### 🧠 [BrainCancerCNN](https://github.com/Mnellutla1120/BrainCancerCNN)
+
+Exploring convolutional neural networks for brain tumor classification, with a focus on distinguishing benign and malignant tumors.
+
+**Tech:** Python · Jupyter Notebook
+
 
 ## 🔬 Research & Experience
 
 **Moffitt Cancer Center — Machine Learning Research**
 
 Applied machine learning to evaluate clinical-trial matching systems, investigating model performance and potential demographic biases.
+
 
 **Sweedler Research Group — Computational Biology**
 
@@ -76,9 +76,6 @@ Working with mass spectrometry data and computational workflows to analyze neuro
 
 Developing software for an LLM-powered platform designed to help students and faculty practice networking conversations.
 
-**NeuroTech@UIUC — AI Research**
-
-Explored EEG signal processing and neural network approaches for mapping brain-signal data to musical representations.
 
 ## 🎯 Current Dilly-Dallying
 
@@ -91,8 +88,8 @@ Explored EEG signal processing and neural network approaches for mapping brain-s
 
 I'm always happy to connect with people building interesting things in software, AI/ML, computational biology, and healthcare technology.
 
-- 💼 [LinkedIn](https://www.linkedin.com/)
-- 📧 [mn38@illinois.edu](mailto:mn38@illinois.edu)
-- 🐙 [GitHub](https://github.com/Mnellutla1120)
+- [LinkedIn](https://www.linkedin.com/moukthika-nellutla/)
+- [mn38@illinois.edu](mailto:mn38@illinois.edu)
+- [GitHub](https://github.com/Mnellutla1120)
 
 Thanks for stopping by — happy building! 🚀
