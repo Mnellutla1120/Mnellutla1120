@@ -91,4 +91,4 @@ I'm always happy to connect with people building interesting things in software,
 - [mn38@illinois.edu](mailto:mn38@illinois.edu)
 - [GitHub](https://github.com/Mnellutla1120)
 
-Thanks for stopping by — happy building! 🚀
+Live laugh love :)
