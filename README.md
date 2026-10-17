@@ -1,12 +1,12 @@
 # Hello, fellow voyager! 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Moukthika Nellutla;Computer Science + Bioengineering @ **University of Illinois Urbana-Champaign**)](https://git.io/typing-svg)
 
-I'm Moukthika Nellutla, a Computer Science + Bioengineering student at the **University of Illinois Urbana-Champaign** interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
 
+I'm interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
 From developing software applications to evaluating machine learning systems and analyzing biological data, I enjoy using computational tools to solve complex problems and make technology more useful, reliable, and equitable.
 
-## About Me
+## More About Me 
 
-- 🎓 CS + Bioengineering @ UIUC · Expected May 2028
 - 🔬 ML research experience at Moffitt Cancer Center, exploring clinical-trial matching and potential demographic biases
 - 🧬 Research experience in computational neuroscience, mass spectrometry, and neuropeptide analysis
 - 💻 Software engineering experience building LLM-powered tools, APIs, and applications
