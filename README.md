@@ -1,4 +1,4 @@
-# Hey, fellow voyager! 👋
+# Hey, fellow voyager! 
 
 I'm Moukthika Nellutla, a Computer Science + Bioengineering student at the **University of Illinois Urbana-Champaign** interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
 
@@ -6,7 +6,7 @@ From developing software applications to evaluating machine learning systems and
 
 ## 🧑‍💻 About Me
 
-- 🎓 CS + Bioengineering @ UIUC · Expected December 2027
+- 🎓 CS + Bioengineering @ UIUC · Expected May 2028
 - 🔬 ML research experience at Moffitt Cancer Center, exploring clinical-trial matching and potential demographic biases
 - 🧬 Research experience in computational neuroscience, mass spectrometry, and neuropeptide analysis
 - 💻 Software engineering experience building LLM-powered tools, APIs, and applications
@@ -18,7 +18,7 @@ From developing software applications to evaluating machine learning systems and
 
 **Languages**
 
-Python · C · R · JavaScript
+Python · Java · R · JavaScript
 
 **AI/ML & Data Science**
 
@@ -80,14 +80,14 @@ Developing software for an LLM-powered platform designed to help students and fa
 
 Explored EEG signal processing and neural network approaches for mapping brain-signal data to musical representations.
 
-## 🎯 Current Focus
+## 🎯 Current Dilly-Dallying
 
-- Building stronger foundations in data structures, algorithms, and software engineering
+- Building stronger foundations in algorithms and bioinformatics
 - Developing practical AI/ML and full-stack projects
 - Exploring computational biology and healthcare AI
 - Seeking opportunities to build impactful software and intelligent systems
 
-## 🤝 Let's Connect!
+## Let's keep in touch :)
 
 I'm always happy to connect with people building interesting things in software, AI/ML, computational biology, and healthcare technology.
 
