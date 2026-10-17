@@ -1,5 +1,6 @@
 # Hello, fellow voyager! 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=8B9CF6&width=800&height=80&multiline=true&lines=Moukthika+Nellutla;Computer+Science+and+Bioengineering+@+UIUC)](https://git.io/typing-svg)
+
 I'm interested in building technology at the intersection of software engineering, AI/ML, and healthcare.
 From developing software applications to evaluating machine learning systems and analyzing biological data, I enjoy using computational tools to solve complex problems and make technology more useful, reliable, and equitable.
 
