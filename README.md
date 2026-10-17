@@ -4,7 +4,7 @@ I'm Moukthika Nellutla, a Computer Science + Bioengineering student at the **Uni
 
 From developing software applications to evaluating machine learning systems and analyzing biological data, I enjoy using computational tools to solve complex problems and make technology more useful, reliable, and equitable.
 
-## 🧑‍💻 About Me
+## About Me
 
 - 🎓 CS + Bioengineering @ UIUC · Expected May 2028
 - 🔬 ML research experience at Moffitt Cancer Center, exploring clinical-trial matching and potential demographic biases
